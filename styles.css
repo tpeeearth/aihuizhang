@@ -450,7 +450,7 @@ body {
   height: auto;
 }
 
-.product-real-image {
+.product-placeholder img {
   width: 300px;
   max-width: 480px;
   height: auto;
