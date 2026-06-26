@@ -450,13 +450,13 @@ body {
   height: auto;
 }
 
-.product-placeholder img {
-  width: 300px;
-  max-width: 480px;
-  height: auto;
-  border-radius: 16px;
-  display: block;
-  margin: 0 auto;
+img.product-real-\/aihuizhang\/image {
+    width: 300px;
+    max-width: 480px;
+    height: auto;
+    border-radius: 16px;
+    display: block;
+    margin: 0 auto;
 }
 
 /* Section 通用样式 */
